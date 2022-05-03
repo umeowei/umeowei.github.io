@@ -71,6 +71,7 @@ body section {
     font-size: 50px;
     font-weight: bold;
     background: #121212;
+    word-break: break-all;
 }
 
 .descr {
